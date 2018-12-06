@@ -1,0 +1,21 @@
+.myheader{
+    color:blue;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+}
+
+.mybutton{
+    font-size:20px;
+}
+
+
+.mybutton:hover{
+     color: red;
+}
+.mylike{
+    background-color:aquamarine;
+}
+.mydog{
+    font-weight:900;
+}
